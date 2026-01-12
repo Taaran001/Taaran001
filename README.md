@@ -81,9 +81,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.github.com/users/taara001/taaran001/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.github.com/users/taara001/taaran001/output/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://api.github.com/users/taara001/taaran001/output/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
